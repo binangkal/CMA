@@ -1,1 +1,1 @@
-# CMA
+# This is an ongoing compilation of programs learned from the book I mentioned in the description, I will be adding more programs here as I progress through the book. The programs pretty much hold no practical value but are very helpful in understanding the mechanics of Python Code.
